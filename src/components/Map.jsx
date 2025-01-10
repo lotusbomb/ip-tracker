@@ -2,7 +2,7 @@
 
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import markerIcon from "../../images/icon-location.svg";
+import markerIcon from "../images/icon-location.svg";
 import { MapContainer, Marker, TileLayer } from "react-leaflet";
 
 const Map = ({ coordinate }) => {

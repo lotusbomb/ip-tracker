@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react'
-import Arrow from '../../images/icon-arrow.svg'
+import Arrow from '../images/icon-arrow.svg'
 
 const IpHeader = ({setIpAddress, fetchLocation}) => {
   const [ipAddress, setLocalIpAddress] = useState("")

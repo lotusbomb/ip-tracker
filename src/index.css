@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .search-bar-container{
-    background-image: url('../../images/pattern-bg-desktop.png');
+    background-image: url('./images/pattern-bg-desktop.png');
 }
